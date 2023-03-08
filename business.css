@@ -1,0 +1,23 @@
+.card {
+  width: 150px;
+}
+.bcard {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  background-color: rgb(240, 245, 245);
+  border-bottom: 4px solid rgb(145, 134, 134);
+  color: #2b2839;
+  /* border: 1px dashed rgb(111, 111, 212); */
+}
+.body {
+  margin: 20px;
+}
+/* .border { */
+/* border: 1px dashed rgb(111, 111, 212); */
+/* } */
